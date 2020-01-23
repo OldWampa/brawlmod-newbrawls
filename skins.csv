@@ -1,7 +1,7 @@
 "Name","Conf","Campaign","ObtainType","PetSkin","PetSkin2","CostLegendaryTrophies","CostGems","TID","ShopTID","Features","MaterialsFile","BlueTexture","RedTexture","BlueSpecular","RedSpecular"
 "string","string","int","int","string","string","int","int","string","string","string","string","string","string","string","string"
 "BanditGirlDefault","BanditGirlDefault",,,,,,,,,,,"shelly_v2_01.pvr","shelly_v2_01.pvr","shelly_v2_01.pvr","shelly_v2_01.pvr"
-"GunSlingerDefault","GunSlingerDefault",,,,,,,,,,,"colt_tex.pvr","colt_tex.pvr","colt_tex.pvr","colt_tex.pvr"
+"GunSlingerDefault","GunSlingerDefault",,,,,,,,,,,"brock_hotrod_tex.pvr","brock_hotrod_tex.pvr","brock_hotrod_tex.pvr","brock_hotrod_tex.pvr"
 "GunSlingerRockstar","GunSlingerRockstar",,,,,,30,"TID_GUNSLINGER_ROCKSTAR_SKIN","TID_GUNSLINGER_ROCKSTAR_SKIN_SHOP","MODEL",,"colt_rockstar_tex.pvr","colt_rockstar_tex.pvr","colt_rockstar_tex.pvr","colt_rockstar_tex.pvr"
 "BullGuyDefault","BullGuyDefault",,,,,,,,,,,"bull_tex_01.pvr","bull_tex_01.pvr","bull_tex_01.pvr","bull_tex_01.pvr"
 "RocketGirlDefault","RocketGirlDefault",,,,,,,,,,,"brock_blue_tex.pvr","brock_tex.pvr","brock_blue_tex.pvr","brock_tex.pvr"
