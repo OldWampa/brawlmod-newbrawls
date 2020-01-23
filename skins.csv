@@ -16,7 +16,7 @@
 "MechanicDefault","MechanicDefault",,,"TurretDefault",,,,,,,,"jessie_tex.pvr","jessie_tex.pvr","jessie_tex.pvr","jessie_tex.pvr"
 "ShamanDefault","ShamanDefault",,,"DamageBoosterDefault",,,,,,,,"spike_tex.pvr","spike_tex.pvr","spike_tex.pvr","spike_tex.pvr"
 "ShamanPanda","ShamanPanda",,,"ShamanBearPanda",,,30,"TID_SHAMAN_PANDA_SKIN","TID_SHAMAN_PANDA_SKIN_SHOP","MODEL,PET",,"nita_panda_tex.pvr","nita_panda_tex.pvr","nita_panda_tex.pvr","nita_panda_tex.pvr"
-"ShamanBearDefault","ShamanBearDefault",,,,,,,,,,,"8bit_tex.pvr","8bit_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)","8bit_tex.pvr","8bit_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)"
+"ShamanBearDefault","ShamanBearDefault",,,,,,,,,,,"nita_bear_tex.pvr","nita_bear_tex.pvr","nita_bear_tex.pvr","nita_bear_tex.pvr"
 "ShamanBearPanda","ShamanBearPanda",,,,,,,,,,,"nita_bear_panda_tex.pvr","nita_bear_panda_tex.pvr","nita_bear_panda_tex.pvr","nita_bear_panda_tex.pvr"
 "UndertakerDefault","UndertakerDefault",,,,,,,,,,,"mortis_v2_tex.pvr","mortis_v2_tex.pvr","mortis_v2_tex.pvr","mortis_v2_tex.pvr"
 "CrowDefault","CrowDefault",,,,,,,,,,,"crow_d_01.pvr","crow_d_01.pvr","crow_d_01.pvr","crow_d_01.pvr"
