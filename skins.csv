@@ -14,7 +14,7 @@
 "CactusPink","CactusPink",,,,,,80,"TID_CACTUS_PINK_SKIN","TID_CACTUS_PINK_SKIN_SHOP","MODEL,VFX",,"spike_blossom_tex.pvr","spike_blossom_tex.pvr","spike_blossom_tex.pvr","spike_blossom_tex.pvr"
 "BarkeepDefault","BarkeepDefault",,,,,,,,,,,"barley_tex.pvr","barley_tex.pvr","barley_tex.pvr","barley_tex.pvr"
 "MechanicDefault","MechanicDefault",,,"TurretDefault",,,,,,,,"jessie_tex.pvr","jessie_tex.pvr","jessie_tex.pvr","jessie_tex.pvr"
-"ShamanDefault","ShamanDefault",,,"ShamanBearDefault",,,,,,,,"nita_tex.pvr","nita_tex.pvr","nita_tex.pvr","nita_tex.pvr"
+"ShamanDefault","ShamanDefault",,,"ArtilleryTurretDefault",,,,,,,,"spike_tex.pvr","spike_tex.pvr","spike_tex.pvr","spike_tex.pvr"
 "ShamanPanda","ShamanPanda",,,"ShamanBearPanda",,,30,"TID_SHAMAN_PANDA_SKIN","TID_SHAMAN_PANDA_SKIN_SHOP","MODEL,PET",,"nita_panda_tex.pvr","nita_panda_tex.pvr","nita_panda_tex.pvr","nita_panda_tex.pvr"
 "ShamanBearDefault","ShamanBearDefault",,,,,,,,,,,"nita_bear_tex.pvr","nita_bear_tex.pvr","nita_bear_tex.pvr","nita_bear_tex.pvr"
 "ShamanBearPanda","ShamanBearPanda",,,,,,,,,,,"nita_bear_panda_tex.pvr","nita_bear_panda_tex.pvr","nita_bear_panda_tex.pvr","nita_bear_panda_tex.pvr"
